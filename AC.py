@@ -110,14 +110,4 @@ run()
 
 
 # Mobin Ghanbarpour
-# Mahyar Nasiri           
-
-
-
-
-
-
-
-
-
-
+# Mahyar Nasiri
