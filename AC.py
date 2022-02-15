@@ -107,7 +107,3 @@ def run():
     tryagain()
 
 run()
-
-
-# Mobin Ghanbarpour
-# Mahyar Nasiri
